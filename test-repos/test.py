@@ -1,2 +1,5 @@
+# -*- coding: utf-8 -*-
+def salutation():
+    return "Bonjour, le monde !"
 
-print "Hello, World!"
+message = salutation()
